@@ -1,3 +1,4 @@
+<!-- ESTO ES UNA RESEÑA DE LA PELICULA ORIGEN DE Christopher Nolan -->
 # &#127916; Reseña de Película: *Origen* (Inception)
 ---
 ¡Bienvenido/a al laberinto de la mente! &#129327; 
@@ -7,7 +8,7 @@ Abróchate el cinturón, porque la realidad es *relativa*.
 ![ORIGEN](img/origen.jpg "Caratula de Origen")
 
 ---
-
+<!-- INDICE DE LA RESEÑA CON SUS DIFERENTES APARTADOS -->
  ## Índice 
 * [Sinopsis: ¿Qué es la idea más resistente?](#sinopsis-qué-es-la-idea-más-resistente)
 * [Ficha Técnica y Reparto de élite](#ficha-técnica-y-reparto-de-élite)
@@ -18,6 +19,7 @@ Abróchate el cinturón, porque la realidad es *relativa*.
 
 ---
 
+<!-- SINOPSIS DE LA PELICULA -->
 ## Sinopsis: ¿Qué es la idea más resistente?
 [ &#128316; Volver al Índice](#índice)
 
@@ -27,21 +29,23 @@ Esta habilidad lo ha convertido en un fugitivo internacional y le ha costado tod
 Ahora, a Cobb se le ofrece una última oportunidad para redimirse, pero en lugar de robar una idea, su equipo debe hacer lo imposible: **implantar una**. 💭
 
 ---
+<!-- TABLA SOBRE LOS ACTORES PRINCIAPLES, DIRECTOR Y AÑO DE LANZAMIENTO -->
 ## Ficha Técnica y Reparto de élite
-[ &#128316; Volver al Índice](#índice)
+[&#128316; Volver al Índice](#índice)
 
 
-| Elemento | Detalle | 
-|:--|:--:|
-| **Director** | Christopher Nolan | 
-| **Año** | 2010 |  |
-| **Reparto** | Leonardo DiCaprio, Ellen Page, Joseph Gordon-Levitt |
+| Elemento | Detalle | Rol |
+|:--|:--:|:--:
+| **Director** | Christopher Nolan | Director
+| **Año** | 2010 | Año de lanzamiento | 
+| **Reparto** | Leonardo DiCaprio, Ellen Page, Joseph Gordon-Levitt | Actores
 
 ![imagen_Director](https://resizing.flixster.com/_4EbT_ZmShngp1D312398D9EW5o=/218x280/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/233377_v9_bb.jpg "Christopher Nolan") 
----
 
-## 🌀 Las Reglas del Mundo de los Sueños
-[&#128316; Volver al Índice](#índice)
+---
+<!-- EXPLICACION DE LAS REGLAS DE LOS SUEÑOS EN LA PELICULA -->
+## Las Reglas del Mundo de los Sueños
+[ &#128316; Volver al Índice](#índice)
 
 En *Origen*, los sueños se estructuran como **capas de realidad**. Cada nivel de sueño transcurre a una velocidad distinta, una proporción que podríamos expresar así:
 
@@ -74,7 +78,8 @@ De esta forma, el subíndice indica cómo el *inconsciente* y el *consciente* ac
 
 
 ---
-## &#128161; Análisis y Temas Profundos
+<!-- UN ANALISIS PROFUNDO SOBRE EL TEMA DE LA PELICULA -->
+## Análisis y Temas Profundos
 [&#128316; Volver al Índice](#índice)
 
 Nolan juega con ideas de *culpa, redención y realidad*.  
@@ -86,8 +91,8 @@ El concepto de **implantar una idea** plantea una reflexión filosófica: ¿cuá
 Incluso la famosa ecuación de Einstein, *E = mc<sup>2</sup>*, sirve aquí como metáfora de cómo una *idea* (energía mental) puede transformarse en una *acción real* (masa simbólica).
 
 ---
-
-## &#128187; Código: La Arquitectura de un Sueño
+<!-- UN PEQUEÑO BLOQUE DE CODIGO DE PYTHON CON LA FORMULA PARA CALCULAR LOS NIVELES DE LOS SUEÑOS -->
+## Código: La Arquitectura de un Sueño
 [&#128316; Volver al Índice](#índice)
 
 En *Origen*, los sueños se construyen como niveles jerárquicos que deben estar **sincronizados** para que la misión tenga éxito.  
@@ -105,7 +110,9 @@ for n in niveles:
 
 ---
 
-## &#128221; Recursos y Referencias
+<!-- ENLACES SOBRE LA PAGINA OFICIAL DE LA PELICULA Y Y NOLAN -->
+
+## Recursos y Referencias
 [&#128316; Volver al Índice](#índice)
 
 - [Página oficial de Inception](https://www.warnerbros.com/movies/inception)
