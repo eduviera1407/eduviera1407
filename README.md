@@ -48,6 +48,9 @@ Ahora, a Cobb se le ofrece una última oportunidad para redimirse, pero en lugar
 [ &#128316; Volver al Índice](#índice)
 
 En *Origen*, los sueños se estructuran como **capas de realidad**. Cada nivel de sueño transcurre a una velocidad distinta, una proporción que podríamos expresar así:
+> [!WARNING]
+> La "patada" (The Kick) es un mecanismo crucial: una sacudida sincronizada que despierta al equipo a través de los niveles.
+
 
 > Tiempo en el sueño = Tiempo real × 10<sup>n</sup>
 
