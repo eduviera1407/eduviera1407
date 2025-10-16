@@ -8,7 +8,7 @@ Abróchate el cinturón, porque la realidad es *relativa*.
 
 ---
 
-&#128203; ## Índice 
+ ## Índice 
 * [Sinopsis: ¿Qué es la idea más resistente?](#sinopsis-qué-es-la-idea-más-resistente)
 * [Ficha Técnica y Reparto de élite](#ficha-técnica-y-reparto-de-élite)
 * [Las Reglas del Mundo de los Sueños](#las-reglas-del-mundo-de-los-sueños)
